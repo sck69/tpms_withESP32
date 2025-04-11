@@ -6,11 +6,8 @@
 #include <WiFiClient.h>
 #include <BlynkSimpleEsp32.h>
 
-/*char ssid[] = "Seth iPhone";
-char pass[] = "sethavery";*/
-
-char ssid[] = "MyResNet-2G";
-char pass[] = "Sethavery1012";
+/*char ssid[] = "";
+char pass[] = "";*/
 
 
 #include "tpms.h"
@@ -22,7 +19,7 @@ TaskHandle_t Task_TPMS;
 BLEScan* pBLEScan;
 BLEClient*  pClient;
 static BLEAddress *pServerAddress;
-String knownAddresses[] = { "80:ea:ca:13:09:d6" , "81:ea:ca:23:0a:e7"};   //address of my TPMS sensors
+String knownAddresses[] = { "" , ""};   //replace with address of my TPMS sensors
 String tirePositions[] = { "Front Tire", "Rear Tire" };
 int desiredPressure = 20; // -> V12
 // Front Tire -> V2, Rear Tire -> V7
