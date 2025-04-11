@@ -1,0 +1,2 @@
+https://www.amazon.com/WISTEK-Bluetooth-Pressure-Monitoring-Motorcycles/dp/B09D8S36XD/ref=sr_1_2?crid=3UAGNGCUPL6FD&dib=eyJ2IjoiMSJ9.eHyyyVno4JohkropfXWehMvClSeRdxumRjqOFv7wKQ0.nMo_QyZFJxlvr2DMyY1wCuz-PlExrE2Io71nHzdT2QA&dib_tag=se&keywords=wistek+sensor&qid=1744345998&sprefix=wistek+sensor%2Caps%2C85&sr=8-2
+this ^^ is the link to the TPMS sensors used for this project. A Blynk User Interface will need set up in order to receive the tire pressure data.
